@@ -1,0 +1,6 @@
+Flask
+numpy
+tensorflow
+pandas
+joblib
+gunicorn
