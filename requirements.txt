@@ -1,6 +1,6 @@
-Flask
-numpy
-tensorflow
-pandas
-joblib
-gunicorn
+Flask==2.3.2
+numpy==1.23.5
+tensorflow==2.10.0
+pandas==1.5.3
+joblib==1.2.0
+gunicorn==21.2.0

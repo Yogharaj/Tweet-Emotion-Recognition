@@ -59,5 +59,9 @@ def fun():
 def fun1():
     return "Home page"
 
+@app.route("/testendpoint")
+def fun2():
+    return "Test working"
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0")
